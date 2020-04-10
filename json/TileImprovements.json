@@ -1,7 +1,7 @@
 [	
 	{
 		"name": "Wet Farm",
-		"uniqueTo": "Tondo"
+		"uniqueTo": "Tondo",
 		"terrainsCanBeBuiltOn": ["Grassland","Flood plains","Hill"],
 		"food": 1,
     "production": 1,
